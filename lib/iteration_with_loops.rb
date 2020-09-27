@@ -16,7 +16,7 @@ while row_index < src.count do
   end 
     return_data << smallest_num 
   row_index += 1
-  return_data
+  
 end 
 
 
