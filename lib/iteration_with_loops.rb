@@ -14,7 +14,8 @@ while row_index < src.count do
     end 
     element_index += 1 
   end 
-   return_data = smallest_num
+   return_data << smallest_num
+   return_data
   row_index += 1 
 end 
 
